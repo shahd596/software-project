@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
+
+body {
+    font-family: Arial, sans-serif; 
+    background-image: url('p1.jpg'); /* Specify the path to your image */
+    background-size: cover;
+    background-blend-mode: overlay; /* This blends the background image with the content */
+    font-family: Arial, sans-serif; /* Example font-family, you can change it according to your preference */
+    color: #ffffff; /* Example text color, you can change it according to your preference */
+  }
+ 
+
+.about-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(230, 137, 31);
+}
+
+h2{
+   text-align: center;
+   color: rgb(255, 255, 255);
+   font-family: 'Poppins', sans-serif;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+
